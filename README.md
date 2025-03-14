@@ -17,7 +17,7 @@ To get started with GnoxOS, follow these instructions:
 
 - A C compiler (e.g., GCC)
 - Make utility
-- QEMU (for emulating the OS)
+- QEMU (for emulating the OS) or own hardware
 
 ### Cloning the Repository
 

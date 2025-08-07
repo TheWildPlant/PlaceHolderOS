@@ -1,17 +1,16 @@
-# Welcome to GnoxOS
+# Welcome to PlaceHolderOS
 
-GnoxOS is a personal project aimed at creating a custom operating system. This project is written entirely in C and is a fun way to explore the low-level workings of operating systems.
 
 ## Project Overview
 
-- **Repository:** [GnoxOS](https://github.com/ieaswefds/GnoxOS)
+- **Repository:** [PlaceholderOS](https://github.com/ieaswefds/PlaceholderOs)
 - **Language:** C
-- **Author:** [ieaswefds](https://github.com/ieaswefds)
+- **Author:** [TheWildPlant](https://github.com/TheWildPlant)
 - **Description:** Bored so I am making my own OS.
 
 ## Getting Started
 
-To get started with GnoxOS, follow these instructions:
+To get started with PlaceholderOS, follow these instructions:
 
 ### Prerequisites
 
@@ -19,8 +18,3 @@ To get started with GnoxOS, follow these instructions:
 - Make utility
 - QEMU (for emulating the OS) or own hardware
 
-### Cloning the Repository
-
-```bash
-git clone https://github.com/ieaswefds/GnoxOS.git
-cd GnoxOS
